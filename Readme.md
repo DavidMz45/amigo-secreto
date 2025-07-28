@@ -1,6 +1,9 @@
 <h1 align="left">  CHALLENGE AMIGO SECRETO </h1>
-<img width="1024" height="1024" alt="Portada challenge del amigo secreto" src="https://github.com/user-attachments/assets/276b86b9-0de0-472a-b019-38711ba17c5b" />
+<img width="1422" height="329" alt="Amigo Secreto" src="https://github.com/user-attachments/assets/67536117-6304-4b95-891d-a4c39a72c446" />
 
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green)
+
+![Static Badge](https://img.shields.io/badge/Status-Esperando_Revisi%C3%B3n-blue?style=flat)
+
+
 
 <h4 align="left">Decripción del Proyecto</h4>
